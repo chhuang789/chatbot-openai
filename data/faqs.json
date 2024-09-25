@@ -1,0 +1,1796 @@
+{
+    "faqs": [
+        {
+            "question": "How to load driver for your Intel® RAID controller during Windows* operating system (OS) installation?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/37351281423897-How-to-load-driver-for-your-Intel-RAID-controller-during-Windows-operating-system-OS-installation"
+        },
+        {
+            "question": "Update NMC1010 NVM from version 6.8/7.2/8.10/8.60/9.00 to 9.50",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/36872588291737-Update-NMC1010-NVM-from-version-6-8-7-2-8-10-8-60-9-00-to-9-50"
+        },
+        {
+            "question": "Update NMC4007LR NVM from version 6.8/7.2/8.10/9.0 to 9.50",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/36764160735513-Update-NMC4007LR-NVM-from-version-6-8-7-2-8-10-9-0-to-9-50"
+        },
+        {
+            "question": "Update NMC4007SR NVM from version 6.8/7.2/8.10/9.00 to 9.5",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/36758824687385-Update-NMC4007SR-NVM-from-version-6-8-7-2-8-10-9-00-to-9-5"
+        },
+        {
+            "question": "Update NMC-1001 NVM from version 6.8/7.2/8.10/9.0 to 9.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/36599425699225-Update-NMC-1001-NVM-from-version-6-8-7-2-8-10-9-0-to-9-10"
+        },
+        {
+            "question": "Prevent to mix single rank DIMMs and dual rank DIMMs.",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/36310636602777-Prevent-to-mix-single-rank-DIMMs-and-dual-rank-DIMMs"
+        },
+        {
+            "question": "Update NMC-4006 NVM from version 6.8/7.2/8.10/8.60/9.00 to 9.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/35228205319321-Update-NMC-4006-NVM-from-version-6-8-7-2-8-10-8-60-9-00-to-9-10"
+        },
+        {
+            "question": "FWA-1212VC SIM Socket Mapping",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/35183926849561-FWA-1212VC-SIM-Socket-Mapping"
+        },
+        {
+            "question": "FWA-2112 PFSense compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/34910066559769-FWA-2112-PFSense-compatibility-list"
+        },
+        {
+            "question": "ASMB-H90_如何手动调整风扇转速",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33747844166681"
+        },
+        {
+            "question": "Quick Start Guide for FWA-1081",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33406804130073-Quick-Start-Guide-for-FWA-1081"
+        },
+        {
+            "question": "How to work hot plug of SATA disks in Ubuntu?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33277443350809-How-to-work-hot-plug-of-SATA-disks-in-Ubuntu"
+        },
+        {
+            "question": "How to manually control fan speed on SKY-640V2?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33164943072153-How-to-manually-control-fan-speed-on-SKY-640V2"
+        },
+        {
+            "question": "How to manually control fan speed on FWA-1081?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33080057226649-How-to-manually-control-fan-speed-on-FWA-1081"
+        },
+        {
+            "question": "How to check and clear case intrusion event on FWA-1081?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/33068732689305-How-to-check-and-clear-case-intrusion-event-on-FWA-1081"
+        },
+        {
+            "question": "Quick Start Guide for FWA-6183",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/32984381287961-Quick-Start-Guide-for-FWA-6183"
+        },
+        {
+            "question": "Quick Start Guide for FWA-2013",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/32931467035801-Quick-Start-Guide-for-FWA-2013"
+        },
+        {
+            "question": "Why FWA-5072 and FWA-6072 can not set two SATA M.2 modules as a RAID device .",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/32775255424025-Why-FWA-5072-and-FWA-6072-can-not-set-two-SATA-M-2-modules-as-a-RAID-device"
+        },
+        {
+            "question": "Update NMC-6003(Dual slots) NVM from version 3.00 to 4.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/32746676642201-Update-NMC-6003-Dual-slots-NVM-from-version-3-00-to-4-30"
+        },
+        {
+            "question": "Update NMC-1012 NVM from version 3.10 to 4.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/31623824203545-Update-NMC-1012-NVM-from-version-3-10-to-4-30"
+        },
+        {
+            "question": "Update NMC-2503 NVM from version 3.10 to 4.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/30993955784089-Update-NMC-2503-NVM-from-version-3-10-to-4-30"
+        },
+        {
+            "question": "Update  X710 NVM from version V9.00 to V9.30 on SKY-721E3",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/29496504044057-Update-X710-NVM-from-version-V9-00-to-V9-30-on-SKY-721E3"
+        },
+        {
+            "question": "Update NMC-6003L(Dual NIC ports)  NVM from version 3.00 to 4.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/28297346055961-Update-NMC-6003L-Dual-NIC-ports-NVM-from-version-3-00-to-4-30"
+        },
+        {
+            "question": "Intel I226 Linux distribution version support list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/28016939561625-Intel-I226-Linux-distribution-version-support-list"
+        },
+        {
+            "question": "PCIE-2232BP X710 nvmupdate from 6.80 to 9.40",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/28003299775769-PCIE-2232BP-X710-nvmupdate-from-6-80-to-9-40"
+        },
+        {
+            "question": "How to manually control fan speed on SKY-821E3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27891255402777-How-to-manually-control-fan-speed-on-SKY-821E3"
+        },
+        {
+            "question": "How to check and clear case intrusion event on SKY-821E3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27890925235865-How-to-check-and-clear-case-intrusion-event-on-SKY-821E3"
+        },
+        {
+            "question": "How to check the part number of BMC controller under x86 OS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27717275134873-How-to-check-the-part-number-of-BMC-controller-under-x86-OS"
+        },
+        {
+            "question": "FWA-4134 安装Proxmox VE 8.1_提示no device with valid ISO found，please check your installation medium",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27522143931289-FWA-4134-%E5%AE%89%E8%A3%85Proxmox-VE-8-1-%E6%8F%90%E7%A4%BAno-device-with-valid-ISO-found-please-check-your-installation-medium"
+        },
+        {
+            "question": "How to check and clear case intrusion event on SKY-8234D3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27463435022873-How-to-check-and-clear-case-intrusion-event-on-SKY-8234D3"
+        },
+        {
+            "question": "How to manually control fan speed on SKY-8234D3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27462807776281-How-to-manually-control-fan-speed-on-SKY-8234D3"
+        },
+        {
+            "question": "How to Manage Power Settings for 3.5\" HDDs on the SKY-8234D3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/27443891726361-How-to-Manage-Power-Settings-for-3-5-HDDs-on-the-SKY-8234D3"
+        },
+        {
+            "question": " Important considerations for PCIE-2232BP loading Advance LAN Bypass default setting ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/26871855317401--Important-considerations-for-PCIE-2232BP-loading-Advance-LAN-Bypass-default-setting"
+        },
+        {
+            "question": "Update NMC-4006 (single port) NVM from version 8.10 to 9.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/26867199900441-Update-NMC-4006-single-port-NVM-from-version-8-10-to-9-10"
+        },
+        {
+            "question": "How to customize server fan table with \"Dual CPU\" & \"GPU PCIe cards\" on SKY-820v3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/26274959779481-How-to-customize-server-fan-table-with-Dual-CPU-GPU-PCIe-cards-on-SKY-820v3"
+        },
+        {
+            "question": "FWA-6172 NMC PCIE routing sequence",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/25751958844825-FWA-6172-NMC-PCIE-routing-sequence"
+        },
+        {
+            "question": "How to upgrade BIOS under UEFI shell on SKY-602E3?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/25232621196825-How-to-upgrade-BIOS-under-UEFI-shell-on-SKY-602E3"
+        },
+        {
+            "question": "How to manually control fan speed on SKY-8232DV2?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/25017208286745-How-to-manually-control-fan-speed-on-SKY-8232DV2"
+        },
+        {
+            "question": "Quick Start Guide for SKY-8134DU",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/24645653062041-Quick-Start-Guide-for-SKY-8134DU"
+        },
+        {
+            "question": "How to set NMC-6003/6003L (chip:E810) QSFP Port Tx disable function",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/24444429100057-How-to-set-NMC-6003-6003L-chip-E810-QSFP-Port-Tx-disable-function"
+        },
+        {
+            "question": "NMC-6002FD (chip:Mellanox ConnectX-5) Firmware 16.35 and  Firmware upgraded step.",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/23949664364313-NMC-6002FD-chip-Mellanox-ConnectX-5-Firmware-16-35-and-Firmware-upgraded-step"
+        },
+        {
+            "question": "Update FWA-3034R(with BMC) MB X710 NVM from version V9.00  to V9.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/23609372099737-Update-FWA-3034R-with-BMC-MB-X710-NVM-from-version-V9-00-to-V9-30"
+        },
+        {
+            "question": "What should we do if \"lspci\" cannot show the vendor and device information of PCI device",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/23392538072217-What-should-we-do-if-lspci-cannot-show-the-vendor-and-device-information-of-PCI-device"
+        },
+        {
+            "question": "How to control front LEDs on non BMC platform?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/22992845706521-How-to-control-front-LEDs-on-non-BMC-platform"
+        },
+        {
+            "question": "NMC-6002FD  FW 16.27 doesn't support  40G LR QSFP module",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/22627142837913-NMC-6002FD-FW-16-27-doesn-t-support-40G-LR-QSFP-module"
+        },
+        {
+            "question": "How to get all of the NIC MAC from Advanced Inventory on Node Explorer?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/22358318869785-How-to-get-all-of-the-NIC-MAC-from-Advanced-Inventory-on-Node-Explorer"
+        },
+        {
+            "question": "Quick Start Guide for FWA-3051",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/22167775370265-Quick-Start-Guide-for-FWA-3051"
+        },
+        {
+            "question": "How to Create a RAID Volume with SSDs on SKY-8132S",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21927605020953-How-to-Create-a-RAID-Volume-with-SSDs-on-SKY-8132S"
+        },
+        {
+            "question": "How to Create a RAID Volume with M.2 SATA on SKY-8132S",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21922781836441-How-to-Create-a-RAID-Volume-with-M-2-SATA-on-SKY-8132S"
+        },
+        {
+            "question": "DIMM population guide on SKY-8132S",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21688088267417-DIMM-population-guide-on-SKY-8132S"
+        },
+        {
+            "question": "Intel E810 100GB/s Dual-Port NIC Performance Limitation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21686225636889-Intel-E810-100GB-s-Dual-Port-NIC-Performance-Limitation"
+        },
+        {
+            "question": "How to upgrade BIOS with AFU utility under UEFI shell on FWA-3034 non-BMC SKUs?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21668499468057-How-to-upgrade-BIOS-with-AFU-utility-under-UEFI-shell-on-FWA-3034-non-BMC-SKUs"
+        },
+        {
+            "question": "Discontinuation of Legacy Feature Addition in New BIOS Code",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21603327494809-Discontinuation-of-Legacy-Feature-Addition-in-New-BIOS-Code"
+        },
+        {
+            "question": "How to manually control fan speed?How to manually control fan speed on SKY-7632?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21433484109593-How-to-manually-control-fan-speed-How-to-manually-control-fan-speed-on-SKY-7632"
+        },
+        {
+            "question": "How to switch VGA to Front IO or Rear IO on MIC-6315  ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/21298574975001-How-to-switch-VGA-to-Front-IO-or-Rear-IO-on-MIC-6315"
+        },
+        {
+            "question": "FWA-3034H (Non-BMC) Bypass configuration file setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/20919009048601-FWA-3034H-Non-BMC-Bypass-configuration-file-setting"
+        },
+        {
+            "question": "如何使用海光CPU内部的watchdog",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/20663510506649"
+        },
+        {
+            "question": "FWA-40H2_内存搭配对整机性能的影响",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/20298446516633"
+        },
+        {
+            "question": "How to upgrade/downgrade BMC firmware on one BMC platforms via NodeExplorer & IPMItool ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/20171830984217-How-to-upgrade-downgrade-BMC-firmware-on-one-BMC-platforms-via-NodeExplorer-IPMItool"
+        },
+        {
+            "question": "UOS下运行lcd_print提示\"LCD device init failed！\"的解决方法",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/20151752442777"
+        },
+        {
+            "question": "How to resolve the issue of the Node explorer's iKVM halting after pressing ALT-TAB to switch window terminal",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/19329098599321-How-to-resolve-the-issue-of-the-Node-explorer-s-iKVM-halting-after-pressing-ALT-TAB-to-switch-window-terminal"
+        },
+        {
+            "question": "ASMB-H90 上如何安装TPM模块并进行测试",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/19278813600537"
+        },
+        {
+            "question": "如何将.tib格式的windows备份还原到HDD",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/19278255391641"
+        },
+        {
+            "question": "ASMB-H90 PCIe插槽/SATA接口/SlimSAS接口 数量/规格限制",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/19123409995673"
+        },
+        {
+            "question": "FWA-5072/6072 DIMM module Installation Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/18857839733273-FWA-5072-6072-DIMM-module-Installation-Suggestion"
+        },
+        {
+            "question": "How to use the SW defined button (driver mode) on FWA-1212VC",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/18685180102809-How-to-use-the-SW-defined-button-driver-mode-on-FWA-1212VC"
+        },
+        {
+            "question": "How to upgrade FWA-3260 BMC Firmware",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/18609386935449-How-to-upgrade-FWA-3260-BMC-Firmware"
+        },
+        {
+            "question": "FWA-6172 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/18455838484761-FWA-6172-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "Sparklan WNFQ-268AXI (WiFi6E) module testing notes",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/18419317728281-Sparklan-WNFQ-268AXI-WiFi6E-module-testing-notes"
+        },
+        {
+            "question": "ASMB-H90 内存插法及支持的内存频率",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/17851584252569"
+        },
+        {
+            "question": "Why iKVM shows blank screen?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/17666766519321-Why-iKVM-shows-blank-screen"
+        },
+        {
+            "question": "How to install Dsub VGA connector on FWA-6520 PCIe solt ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/17661139680281-How-to-install-Dsub-VGA-connector-on-FWA-6520-PCIe-solt"
+        },
+        {
+            "question": "统信服务器操作系统（1050a）安装screen",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/17271109499545"
+        },
+        {
+            "question": "统信服务器操作系统试用版（1050a/1050d）更新软件源",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/17266755295897"
+        },
+        {
+            "question": "MIC-6314 P5/P6 COM port pin definition for RS-232/422/485",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16972451845913-MIC-6314-P5-P6-COM-port-pin-definition-for-RS-232-422-485"
+        },
+        {
+            "question": "FWA-40H2_搭配银河麒麟桌面版OS放置一段时间后自动关机",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16778417733657"
+        },
+        {
+            "question": "Why BMC arisen the event of \"Version Change | Firmware or software incompatibility detected | Asserted\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16751248576665-Why-BMC-arisen-the-event-of-Version-Change-Firmware-or-software-incompatibility-detected-Asserted"
+        },
+        {
+            "question": "How to check firmware version using redfish?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16599158016793-How-to-check-firmware-version-using-redfish"
+        },
+        {
+            "question": "How to disable SSH access on BMC?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16585031942425-How-to-disable-SSH-access-on-BMC"
+        },
+        {
+            "question": "FWA-60H2 CPU die/numa与NMC slots/DIMM channel对应关系",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16525303322009-FWA-60H2-CPU-die-numa%E4%B8%8ENMC-slots-DIMM-channel%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB"
+        },
+        {
+            "question": "Node Explorer: OS installation recommendation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16487953374105-Node-Explorer-OS-installation-recommendation"
+        },
+        {
+            "question": "How to check PCI-E slot number via BIOS?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16483946031385-How-to-check-PCI-E-slot-number-via-BIOS"
+        },
+        {
+            "question": "How to solve Centos 8.x installation stuck issue through serial port",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16483226578329-How-to-solve-Centos-8-x-installation-stuck-issue-through-serial-port"
+        },
+        {
+            "question": "Update NMC-4005 NVM from version 5.05/6.01/6.8/8.4/9.0 to 9.1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16445673307033-Update-NMC-4005-NVM-from-version-5-05-6-01-6-8-8-4-9-0-to-9-1"
+        },
+        {
+            "question": "Compile DPDK under CentOS 7.5_show \"fatal error: numa.h: No such file or directory\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/16070191769241-Compile-DPDK-under-CentOS-7-5-show-fatal-error-numa-h-No-such-file-or-directory"
+        },
+        {
+            "question": "Update PCIE-2230 from version 6.01, 8.1 to 9.1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/15793346684697-Update-PCIE-2230-from-version-6-01-8-1-to-9-1"
+        },
+        {
+            "question": "Pin assignment of AC and DC cables to an external power supply",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/15504349539353-Pin-assignment-of-AC-and-DC-cables-to-an-external-power-supply"
+        },
+        {
+            "question": "Verifying 'USB-to-RJ45 Console' Pin Definition Before Connecting to FWA Series RJ45 Port",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/15422565804697-Verifying-USB-to-RJ45-Console-Pin-Definition-Before-Connecting-to-FWA-Series-RJ45-Port"
+        },
+        {
+            "question": "How to use lbpcu & apdi on FWA-1013 with Lan bypass function ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14796254538777-How-to-use-lbpcu-apdi-on-FWA-1013-with-Lan-bypass-function"
+        },
+        {
+            "question": "Quick Start Guide for FWA-1013",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14787092744089-Quick-Start-Guide-for-FWA-1013"
+        },
+        {
+            "question": "Quick Start Guide for SKY-8134S-11",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14607125805465-Quick-Start-Guide-for-SKY-8134S-11"
+        },
+        {
+            "question": "FWA-1112VC Ethernet Ports and PCIE BUS comparison",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14570521342873-FWA-1112VC-Ethernet-Ports-and-PCIE-BUS-comparison"
+        },
+        {
+            "question": "NMC-6003 doesn't support 40G QSFP module",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14264161368729-NMC-6003-doesn-t-support-40G-QSFP-module"
+        },
+        {
+            "question": "如何设置网讯网卡WX1860(SFP)/SP1000A(SFP+) Port TX disable功能",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/14151541265561"
+        },
+        {
+            "question": "海光平台OS兼容列表",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13893107817369"
+        },
+        {
+            "question": "FWA-60H2_CPU及CPU散热器安装方式",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13311524544921"
+        },
+        {
+            "question": "FWA-60H2_SATA3/MSATA1 SATA信号共用设计介绍",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13311163603097"
+        },
+        {
+            "question": "FWA-60H2_内存插法及降频规则",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13310130256793"
+        },
+        {
+            "question": "FWA-60H2_搭配73xx和53xx CPU_主要接口数量/性能差异",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13293907237273"
+        },
+        {
+            "question": "How to identify PCIe slot and Speed adjustment via BIOS in SKY-7632D？",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13211318829465-How-to-identify-PCIe-slot-and-Speed-adjustment-via-BIOS-in-SKY-7632D"
+        },
+        {
+            "question": "FWA-60H2_ lbpcu.cfg配置",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13093192031001-FWA-60H2-lbpcu-cfg%E9%85%8D%E7%BD%AE"
+        },
+        {
+            "question": "FWA-40H2_安装银河麒麟server V10 SP2_提示“设置基础软件仓库时出错”",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/13075441699865"
+        },
+        {
+            "question": "NMC PCIe bus (slot) mappings on FWA-6520 Series",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12917739191449-NMC-PCIe-bus-slot-mappings-on-FWA-6520-Series"
+        },
+        {
+            "question": "NMC PCIe bus (slot) mappings on FWA-5020 Series",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12917701059993-NMC-PCIe-bus-slot-mappings-on-FWA-5020-Series"
+        },
+        {
+            "question": "MIC-661 查看CPU温度命令",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12633787419801"
+        },
+        {
+            "question": "How to set slot ID when use  legacy_lbptool to control bypass mode on FWA-3033 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12356209389209-How-to-set-slot-ID-when-use-legacy-lbptool-to-control-bypass-mode-on-FWA-3033"
+        },
+        {
+            "question": "How to enable PXE boot in BIOS? (General Steps)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12291790880793-How-to-enable-PXE-boot-in-BIOS-General-Steps"
+        },
+        {
+            "question": "How to lock the CPU frequency to its main frequency on FWA-6520",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/12142133561881-How-to-lock-the-CPU-frequency-to-its-main-frequency-on-FWA-6520"
+        },
+        {
+            "question": "Update NMC-4008SR from version 7.2/8.1/8.60 to 9.00",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11845649640729-Update-NMC-4008SR-from-version-7-2-8-1-8-60-to-9-00"
+        },
+        {
+            "question": "Advantech Node Explorer TCP Port list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11717976811161-Advantech-Node-Explorer-TCP-Port-list"
+        },
+        {
+            "question": "FWA-2112 on-board SFP/SFP+ ports (X553) performance",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11692822079385-FWA-2112-on-board-SFP-SFP-ports-X553-performance"
+        },
+        {
+            "question": "FWA-2112 on-board RJ45 LAN port (I210) performance",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11690372595609-FWA-2112-on-board-RJ45-LAN-port-I210-performance"
+        },
+        {
+            "question": "What is BIOS boot error message \"ERROR: Class:1000000; Subclass:30000; Operation: 6\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11615952154905-What-is-BIOS-boot-error-message-ERROR-Class-1000000-Subclass-30000-Operation-6"
+        },
+        {
+            "question": "Update NMC-4008LR from version 7.2/8.10/8.60 to 9.0",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11386541608729-Update-NMC-4008LR-from-version-7-2-8-10-8-60-to-9-0"
+        },
+        {
+            "question": "OPNsense 22.7 supported model list ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11194786881177-OPNsense-22-7-supported-model-list"
+        },
+        {
+            "question": "Update NMC1010  NVM from version 6.8/7.2/8.10/8.60 to 9.00",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11109924192793-Update-NMC1010-NVM-from-version-6-8-7-2-8-10-8-60-to-9-00"
+        },
+        {
+            "question": "Update NMC4007SR NVM from version 6.8/7.2/8.10 to 9.00",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/11037597674137-Update-NMC4007SR-NVM-from-version-6-8-7-2-8-10-to-9-00"
+        },
+        {
+            "question": "Update NMC4007LR NVM from version 6.8/7.2/8.10 to 9.0",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10956373702809-Update-NMC4007LR-NVM-from-version-6-8-7-2-8-10-to-9-0"
+        },
+        {
+            "question": "Update NMC-1001 NVM from version 6.8/7.2/8.10 to 9.0",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10861075083673-Update-NMC-1001-NVM-from-version-6-8-7-2-8-10-to-9-0"
+        },
+        {
+            "question": "PCIE-3030 Power consumption",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10794556030489-PCIE-3030-Power-consumption"
+        },
+        {
+            "question": "FWA-40H2 Riser card安装方式",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10742975175961"
+        },
+        {
+            "question": "Update NMC-4005 NVM from version 6.8/7.2/8.10/8.60 to 9.0",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10702760846233-Update-NMC-4005-NVM-from-version-6-8-7-2-8-10-8-60-to-9-0"
+        },
+        {
+            "question": "Update NMC-4006 NVM from version 6.8/7.2/8.10/8.60 to 9.00",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10548219323801-Update-NMC-4006-NVM-from-version-6-8-7-2-8-10-8-60-to-9-00"
+        },
+        {
+            "question": "E810 minimum requirements(NVM/driver) for QinQ function",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10547518354201-E810-minimum-requirements-NVM-driver-for-QinQ-function"
+        },
+        {
+            "question": "Update NMC-1009 NVM from version 6.8/7.2/8.10 to 9.00",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10546825876761-Update-NMC-1009-NVM-from-version-6-8-7-2-8-10-to-9-00"
+        },
+        {
+            "question": "Replace a CMOS Battery on  SKY-8101 Series ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10472283377433-Replace-a-CMOS-Battery-on-SKY-8101-Series"
+        },
+        {
+            "question": "IPMI SEL for system reboot on FWA-6520 Series",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10378144269465-IPMI-SEL-for-system-reboot-on-FWA-6520-Series"
+        },
+        {
+            "question": "FWA-6171 PSU LED Behavior",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10233678712985-FWA-6171-PSU-LED-Behavior"
+        },
+        {
+            "question": "FWA-4030/5070/6070 PSU LED Behavior",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10233418374041-FWA-4030-5070-6070-PSU-LED-Behavior"
+        },
+        {
+            "question": "FWA-3033 PSU LED Behavior",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10230515338521-FWA-3033-PSU-LED-Behavior"
+        },
+        {
+            "question": "FWA-6170 PSU LED Behavior",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/10221832003865-FWA-6170-PSU-LED-Behavior"
+        },
+        {
+            "question": "FWA-6171 connector, jumper & switch address",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9967812218649-FWA-6171-connector-jumper-switch-address"
+        },
+        {
+            "question": "How to build UEFI PCH Firmware (RSTe) or VROC RAID on SKY-7632D/SKY-7232D？",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9777952041497-How-to-build-UEFI-PCH-Firmware-RSTe-or-VROC-RAID-on-SKY-7632D-SKY-7232D"
+        },
+        {
+            "question": "How to check FWA-5020 PSU status",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9651126196249-How-to-check-FWA-5020-PSU-status"
+        },
+        {
+            "question": "NMC-01N0/01N1/08N1/10N0_FWA-40H2_DPDK 驱动选择",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9586103779225-NMC-01N0-01N1-08N1-10N0-FWA-40H2-DPDK-%E9%A9%B1%E5%8A%A8%E9%80%89%E6%8B%A9"
+        },
+        {
+            "question": "NMC-10N0_txgbe驱动版本选择",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9584180438809"
+        },
+        {
+            "question": "NMC-01N0/01N1/08N1_FWA-40H2_ngbe驱动版本选择",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/9582555692953"
+        },
+        {
+            "question": "How to connect to x86 via console port on Windows using \"putty\" ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/8615300538905-How-to-connect-to-x86-via-console-port-on-Windows-using-putty"
+        },
+        {
+            "question": "FWA-6070 BIOS version list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/8473693695001-FWA-6070-BIOS-version-list"
+        },
+        {
+            "question": "MIC-661 如何在线更新BIOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/8427817479705"
+        },
+        {
+            "question": "How to check BIOS ERROR: Class:0; Subclass:20000; Operation: 1008",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/8195777074585-How-to-check-BIOS-ERROR-Class-0-Subclass-20000-Operation-1008"
+        },
+        {
+            "question": "FWA-40H2 运行dpdk testpmd 提示“IO_PAGE_FAULT”",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7925158147353-FWA-40H2-%E8%BF%90%E8%A1%8Cdpdk-testpmd-%E6%8F%90%E7%A4%BA-IO-PAGE-FAULT"
+        },
+        {
+            "question": "How to check and clear case intrusion event?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7903933584537-How-to-check-and-clear-case-intrusion-event"
+        },
+        {
+            "question": "FWA-5070/6070 DIMM module Installation Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7809404401433-FWA-5070-6070-DIMM-module-Installation-Suggestion"
+        },
+        {
+            "question": "Quick start guide for Linux 5G telecommunication setting ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7732463930265-Quick-start-guide-for-Linux-5G-telecommunication-setting"
+        },
+        {
+            "question": "FWA-40H2_ lbpcu.cfg配置",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7365780349977-FWA-40H2-lbpcu-cfg%E9%85%8D%E7%BD%AE"
+        },
+        {
+            "question": "网讯千兆电口_duplex_autoneg限制",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7331797352729"
+        },
+        {
+            "question": "How to verify / modify sel mode  if SEL log is full in AMI BMC?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7315459824665-How-to-verify-modify-sel-mode-if-SEL-log-is-full-in-AMI-BMC"
+        },
+        {
+            "question": "NMC-10N0_SFP模块兼容列表",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7291138980505"
+        },
+        {
+            "question": "NMC-01N1_SFP模块兼容列表",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7289075464217"
+        },
+        {
+            "question": "How to change BMC SEL mode (Stop on Full or Rollback)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/7232936234009-How-to-change-BMC-SEL-mode-Stop-on-Full-or-Rollback"
+        },
+        {
+            "question": "Please check CMOS battery voltage if FWA-1112VC auto restore BIOS default at power off (AC off mode)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6732245979545-Please-check-CMOS-battery-voltage-if-FWA-1112VC-auto-restore-BIOS-default-at-power-off-AC-off-mode"
+        },
+        {
+            "question": "Update NMC-4005 NVM from version 6.8/7.2/8.10 to 8.60",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6507495146649-Update-NMC-4005-NVM-from-version-6-8-7-2-8-10-to-8-60"
+        },
+        {
+            "question": "How to verify Hard Drive status under array mode through arcconf ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6502856076313-How-to-verify-Hard-Drive-status-under-array-mode-through-arcconf"
+        },
+        {
+            "question": "Update NMC-4008SR from version 7.2 to 8.60 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6365435049625-Update-NMC-4008SR-from-version-7-2-to-8-60"
+        },
+        {
+            "question": "How to connect to console port on MacOS using \"Screen\"?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6321399413657-How-to-connect-to-console-port-on-MacOS-using-Screen"
+        },
+        {
+            "question": "How to use ipmitool on Mac OS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6320742107417-How-to-use-ipmitool-on-Mac-OS"
+        },
+        {
+            "question": "Update NMC-4006 NVM from version 6.8/7.2/8.10 to 8.60",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6285101226393-Update-NMC-4006-NVM-from-version-6-8-7-2-8-10-to-8-60"
+        },
+        {
+            "question": "Update NMC1010 NVM from version 6.8/7.2/8.10 to 8.60",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6113916754201-Update-NMC1010-NVM-from-version-6-8-7-2-8-10-to-8-60"
+        },
+        {
+            "question": "[IPMItool] How to access Advantech BMC web interface for new created BMC users?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6091938840729--IPMItool-How-to-access-Advantech-BMC-web-interface-for-new-created-BMC-users"
+        },
+        {
+            "question": "[Node Explorer] How to access Advantech BMC web interface for new created BMC users?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/6090542240793--Node-Explorer-How-to-access-Advantech-BMC-web-interface-for-new-created-BMC-users"
+        },
+        {
+            "question": "FWA-1011 BIOS setup item \"OS Selection\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/5158468947993-FWA-1011-BIOS-setup-item-OS-Selection"
+        },
+        {
+            "question": "FWA-1112VC-8CA1S SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4918733421721-FWA-1112VC-8CA1S-SFP-module-compatibility-list"
+        },
+        {
+            "question": "How to set Advanced LAN bypass in BIOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4916182317849-How-to-set-Advanced-LAN-bypass-in-BIOS"
+        },
+        {
+            "question": "NMC-6003 NVM 2.15 upgrade limitation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4753191402009-NMC-6003-NVM-2-15-upgrade-limitation"
+        },
+        {
+            "question": "How to configure a PXE server on CentOS 7 (UEFI Boot)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4578581408409-How-to-configure-a-PXE-server-on-CentOS-7-UEFI-Boot"
+        },
+        {
+            "question": "[Node Explorer] How to enable SOL function for new created BMC users?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4575610112153--Node-Explorer-How-to-enable-SOL-function-for-new-created-BMC-users"
+        },
+        {
+            "question": "FWA-3033 How to read NMC FRU by afru and ipmitool",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4429945820185-FWA-3033-How-to-read-NMC-FRU-by-afru-and-ipmitool"
+        },
+        {
+            "question": "银河麒麟桌面版V10_串口Console登录设置",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4424175790873"
+        },
+        {
+            "question": "ethtool 4.5_XL710_Supported link modes_Not reported ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4417863740697-ethtool-4-5-XL710-Supported-link-modes-Not-reported"
+        },
+        {
+            "question": "FWA-1212VC one-to-one correspondence for M.2/Mini PCIE/SIM sockets and LTE/WiFi modules ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4417365880985-FWA-1212VC-one-to-one-correspondence-for-M-2-Mini-PCIE-SIM-sockets-and-LTE-WiFi-modules"
+        },
+        {
+            "question": "NMC-1009 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4415741409305-NMC-1009-SFP-module-compatibility-list"
+        },
+        {
+            "question": "FWA-6520 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4415355792665-FWA-6520-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "银河麒麟/统信UOS_USB安装盘制作_Ventoy",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4415143577753"
+        },
+        {
+            "question": "银河麒麟桌面版V10_执行程序提示权限不够",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4415143368729"
+        },
+        {
+            "question": "FWA-6170 MGMT board SW7 switch setting ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4414948581401-FWA-6170-MGMT-board-SW7-switch-setting"
+        },
+        {
+            "question": "[Quick Start Guide #0] Device assembly and bring up.",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4414696357657--Quick-Start-Guide-0-Device-assembly-and-bring-up"
+        },
+        {
+            "question": "SKY-9240 CPU combinations compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4414101995161-SKY-9240-CPU-combinations-compatibility-list"
+        },
+        {
+            "question": "[BMC] Error message while activating BMC firmware",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4413391442841--BMC-Error-message-while-activating-BMC-firmware"
+        },
+        {
+            "question": "How to collect AMI BMC (AST-2500) Console log via RS232 Cable in SKY-7221 ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4412314447385-How-to-collect-AMI-BMC-AST-2500-Console-log-via-RS232-Cable-in-SKY-7221"
+        },
+        {
+            "question": "Why Linux detects  Advantech 10Gb NMC module (chip: XL710) device ID as  8086:1572 (Chip: X710)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4411983651097-Why-Linux-detects-Advantech-10Gb-NMC-module-chip-XL710-device-ID-as-8086-1572-Chip-X710"
+        },
+        {
+            "question": "Update SKY-7223D MB XL710 LAN NVM from version 7.20  to 8.30",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4411578585497-Update-SKY-7223D-MB-XL710-LAN-NVM-from-version-7-20-to-8-30"
+        },
+        {
+            "question": "Update PCIE-2230  from version 6.01 to 8.1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4410124752409-Update-PCIE-2230-from-version-6-01-to-8-1"
+        },
+        {
+            "question": "How to verify RAID card vendor via command under Linux?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4409716370841-How-to-verify-RAID-card-vendor-via-command-under-Linux"
+        },
+        {
+            "question": "[Quick Start Guide #2] How to set up remote monitoring and control of the device?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4409397172633--Quick-Start-Guide-2-How-to-set-up-remote-monitoring-and-control-of-the-device"
+        },
+        {
+            "question": "[Quick Start Guide #1] How to get device power on and display?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4409405277209--Quick-Start-Guide-1-How-to-get-device-power-on-and-display"
+        },
+        {
+            "question": "FWA-40H2 通过VGA安装UOS server 20 （部分版本）黑屏",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408777047961"
+        },
+        {
+            "question": "FWA-40H2_如何在线更新BIOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408784372761"
+        },
+        {
+            "question": "FWA-6171 NMC PCIe bus assignment",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408433091097-FWA-6171-NMC-PCIe-bus-assignment"
+        },
+        {
+            "question": "How to enable Identification LED on FWA-6171",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408171954969-How-to-enable-Identification-LED-on-FWA-6171"
+        },
+        {
+            "question": "How to enable Identification LED on FWA-6170",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408169519769-How-to-enable-Identification-LED-on-FWA-6170"
+        },
+        {
+            "question": "How to check / change FAN speed on Advantech BMC built-in platforms",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408167051801-How-to-check-change-FAN-speed-on-Advantech-BMC-built-in-platforms"
+        },
+        {
+            "question": "How to approach BMC on Advantech ICVG (CIoT) platforms ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408165028633-How-to-approach-BMC-on-Advantech-ICVG-CIoT-platforms"
+        },
+        {
+            "question": "How to check SKY-7221/7210 BMC version via AMI BMC Web or IPMITOOL ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4408114856601-How-to-check-SKY-7221-7210-BMC-version-via-AMI-BMC-Web-or-IPMITOOL"
+        },
+        {
+            "question": "lcd_mkfont (LCDKit) show “freetype render error！“ on CentOS6",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4407227285145-lcd-mkfont-LCDKit-show-freetype-render-error-on-CentOS6"
+        },
+        {
+            "question": "Update NMC-4005 NVM from version 6.8/7.2 to 8.1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4405807028633-Update-NMC-4005-NVM-from-version-6-8-7-2-to-8-1"
+        },
+        {
+            "question": "Update NMC-1009 NVM from version 6.8/7.2 to 8.10 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4405699015705-Update-NMC-1009-NVM-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "FWA-6171 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4407410241549-FWA-6171-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "Network protocols supported by i350 and differences on HW design and EEPROM for these applications",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4407133164685-Network-protocols-supported-by-i350-and-differences-on-HW-design-and-EEPROM-for-these-applications"
+        },
+        {
+            "question": "How to install LOM Board on FWA-3033",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4405137358605-How-to-install-LOM-Board-on-FWA-3033"
+        },
+        {
+            "question": "SKY-7223 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4405059482893-SKY-7223-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "How to bypass NET::ERR_CERT_COMMON_NAME_INVALID https web site for Chrome and Edge browser?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4405046531213-How-to-bypass-NET-ERR-CERT-COMMON-NAME-INVALID-https-web-site-for-Chrome-and-Edge-browser"
+        },
+        {
+            "question": "Decrypt https redfish traffic via fiddler as proxy on WIndows 10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404917425549-Decrypt-https-redfish-traffic-via-fiddler-as-proxy-on-WIndows-10"
+        },
+        {
+            "question": "How to install DMTF / python-redfish-library and use it on Windows 10?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404793319181-How-to-install-DMTF-python-redfish-library-and-use-it-on-Windows-10"
+        },
+        {
+            "question": "How to install redfishtool on Windows 10?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404799833613-How-to-install-redfishtool-on-Windows-10"
+        },
+        {
+            "question": "How to install VirtualEnv & Activate of python3 on Windows 10?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404778275085-How-to-install-VirtualEnv-Activate-of-python3-on-Windows-10"
+        },
+        {
+            "question": "How to install python3 and pip on Windows 10?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404778102669-How-to-install-python3-and-pip-on-Windows-10"
+        },
+        {
+            "question": "How to check SKY-7210 & SKY-7221 PSU status by ipmitool command ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404409693581-How-to-check-SKY-7210-SKY-7221-PSU-status-by-ipmitool-command"
+        },
+        {
+            "question": "[IPMItool] How to enable SOL function for new created BMC users?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404243654157--IPMItool-How-to-enable-SOL-function-for-new-created-BMC-users"
+        },
+        {
+            "question": "What information Advantech need for problem analysis?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4404062701197-What-information-Advantech-need-for-problem-analysis"
+        },
+        {
+            "question": "FWA-6170  SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4403209804557-FWA-6170-SFP-module-compatibility-list"
+        },
+        {
+            "question": "FWA-1012 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4403222578829-FWA-1012-SFP-module-compatibility-list"
+        },
+        {
+            "question": "Limitations of the 2 UART ports on MIC-3332 J2",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402538816269-Limitations-of-the-2-UART-ports-on-MIC-3332-J2"
+        },
+        {
+            "question": "FWA-1011 DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402543486861-FWA-1011-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "FWA-1112VC WiFi6E & 5G antenna installation notes.",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402403846029-FWA-1112VC-WiFi6E-5G-antenna-installation-notes"
+        },
+        {
+            "question": "FWA-1211 DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402387474573-FWA-1211-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "FWA-1212VC DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402402978573-FWA-1212VC-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "SKY-7210 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402379664909-SKY-7210-SFP-module-compatibility-list"
+        },
+        {
+            "question": "NMC-1011 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402373883533-NMC-1011-SFP-module-compatibility-list"
+        },
+        {
+            "question": "NMC-0804 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/4402373840525-NMC-0804-SFP-module-compatibility-list"
+        },
+        {
+            "question": "FWA-T011 DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360062151332-FWA-T011-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "SKY-7221 DIMM compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360062470731-SKY-7221-DIMM-compatibility-list"
+        },
+        {
+            "question": "Extension LTE antenna Part Number for FWA-1012",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360062389151-Extension-LTE-antenna-Part-Number-for-FWA-1012"
+        },
+        {
+            "question": "How to install memory correctly on FWA-2112",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360062382491-How-to-install-memory-correctly-on-FWA-2112"
+        },
+        {
+            "question": "Backup & restore OS with G4L",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360061962952-Backup-restore-OS-with-G4L"
+        },
+        {
+            "question": "NMC-4006 QSFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360061097611-NMC-4006-QSFP-module-compatibility-list"
+        },
+        {
+            "question": "Compatible 25G transceivers for NMC-2501",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060700592-Compatible-25G-transceivers-for-NMC-2501"
+        },
+        {
+            "question": "Compatible 100G transceivers for NMC-6003",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360061097451-Compatible-100G-transceivers-for-NMC-6003"
+        },
+        {
+            "question": "How to flash FWA-3260 (Versa 810/800)  BMC FW in Versa OS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060589612-How-to-flash-FWA-3260-Versa-810-800-BMC-FW-in-Versa-OS"
+        },
+        {
+            "question": "FWA-1012VC DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060877911-FWA-1012VC-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "NMC-1004 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060441052-NMC-1004-SFP-module-compatibility-list"
+        },
+        {
+            "question": "NMC-4001 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060440692-NMC-4001-SFP-module-compatibility-list"
+        },
+        {
+            "question": "NMC-1001 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060438012-NMC-1001-SFP-module-compatibility-list"
+        },
+        {
+            "question": "NMC-4005 SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060853251-NMC-4005-SFP-module-compatibility-list"
+        },
+        {
+            "question": "How to create a logical drive through KVM?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060785571-How-to-create-a-logical-drive-through-KVM"
+        },
+        {
+            "question": "FWA-1112VC DIMM module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060293332-FWA-1112VC-DIMM-module-compatibility-list"
+        },
+        {
+            "question": "Why doesn't the system boot fast after installing or changing a DIMM module?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060293292-Why-doesn-t-the-system-boot-fast-after-installing-or-changing-a-DIMM-module"
+        },
+        {
+            "question": "How to check Advantech Power Sensor(APS) utility command version and supported list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360060210551-How-to-check-Advantech-Power-Sensor-APS-utility-command-version-and-supported-list"
+        },
+        {
+            "question": "How to register to Advantech ICVG service portal with the ticket system and knowledge-base (FAQ)? ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360059214312-How-to-register-to-Advantech-ICVG-service-portal-with-the-ticket-system-and-knowledge-base-FAQ"
+        },
+        {
+            "question": "Update NMC-1011 NVM from version 6.8 to 8.1_NIC2",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360058219952-Update-NMC-1011-NVM-from-version-6-8-to-8-1-NIC2"
+        },
+        {
+            "question": "How to make first i210 port to be dedicated IPMI port?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360058554251-How-to-make-first-i210-port-to-be-dedicated-IPMI-port"
+        },
+        {
+            "question": "Update NMC-1011 NVM from version 6.8 to 8.1_NIC1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360058510011-Update-NMC-1011-NVM-from-version-6-8-to-8-1-NIC1"
+        },
+        {
+            "question": "How to read PSU status on FWA-2112",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360057870191-How-to-read-PSU-status-on-FWA-2112"
+        },
+        {
+            "question": "How to recognize the Xilinx T1 Telco Accelerator Card?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360057705631-How-to-recognize-the-Xilinx-T1-Telco-Accelerator-Card"
+        },
+        {
+            "question": "The reading condition for sensor HDD_LOCAL-TMP",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360056807572-The-reading-condition-for-sensor-HDD-LOCAL-TMP"
+        },
+        {
+            "question": "Update NMC4007LR NVM from version 6.8/7.2 to 8.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360056378911-Update-NMC4007LR-NVM-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "Update NMC4007SR NVM from version 6.8/7.2 to 8.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360055927432-Update-NMC4007SR-NVM-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "Update NMC1001 from version 6.8/7.2 to 8.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360056330851-Update-NMC1001-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "Update NMC-4006 NVM from version 6.8/7.2 to 8.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360056187611-Update-NMC-4006-NVM-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "Update NMC1010 NVM from version 6.8/7.2 to 8.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360055854711-Update-NMC1010-NVM-from-version-6-8-7-2-to-8-10"
+        },
+        {
+            "question": "How to reading FWA-6070N-00A1R NMC fru data under afru ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360055767211-How-to-reading-FWA-6070N-00A1R-NMC-fru-data-under-afru"
+        },
+        {
+            "question": "How to upgrade FW via IPMITool",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360055188672-How-to-upgrade-FW-via-IPMITool"
+        },
+        {
+            "question": "How to set 2 SATA M.2 modules a Intel RSTe RAID 0/1 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360055236371-How-to-set-2-SATA-M-2-modules-a-Intel-RSTe-RAID-0-1"
+        },
+        {
+            "question": "How to install KVM with PF?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054612052-How-to-install-KVM-with-PF"
+        },
+        {
+            "question": " iperf error: connect failed: no route to host",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054375652--iperf-error-connect-failed-no-route-to-host"
+        },
+        {
+            "question": "SKY-8201 DIMM Population",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054218172-SKY-8201-DIMM-Population"
+        },
+        {
+            "question": "FWA-7210 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054682551-FWA-7210-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "SKY-7221 DIMM Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054638491-SKY-7221-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "NMC-E01 & NMC-E02 different and supported Model ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360054480351-NMC-E01-NMC-E02-different-and-supported-Model"
+        },
+        {
+            "question": "NMC-4006 NVM version list and enable PXE function setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360053957612-NMC-4006-NVM-version-list-and-enable-PXE-function-setting"
+        },
+        {
+            "question": "Why ipmitool report \"Error response 0xc1 from Get PICMG Properities\" during dump BMC log",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360053511331-Why-ipmitool-report-Error-response-0xc1-from-Get-PICMG-Properities-during-dump-BMC-log"
+        },
+        {
+            "question": "How to install Centos 6.10 in text mode - Legacy",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360052966912-How-to-install-Centos-6-10-in-text-mode-Legacy"
+        },
+        {
+            "question": "System stuck on a black screen or occurred \"NMI watchdog\" when installing CentOS/RHEL 6&7 in ENPD product with AST VGA",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360053432611-System-stuck-on-a-black-screen-or-occurred-NMI-watchdog-when-installing-CentOS-RHEL-6-7-in-ENPD-product-with-AST-VGA"
+        },
+        {
+            "question": "Update NMC-2501 NVM from version 6.8 to 7.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360052958572-Update-NMC-2501-NVM-from-version-6-8-to-7-10"
+        },
+        {
+            "question": "How to check if the your device has TPM2.0 module installed ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360052958232-How-to-check-if-the-your-device-has-TPM2-0-module-installed"
+        },
+        {
+            "question": "How to troubleshoot when an SSD's performance went wrong",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360052234112-How-to-troubleshoot-when-an-SSD-s-performance-went-wrong"
+        },
+        {
+            "question": "How to route the NC-SI to the front IO",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360052017131-How-to-route-the-NC-SI-to-the-front-IO"
+        },
+        {
+            "question": "FWA-1112 PFSense compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360051952711-FWA-1112-PFSense-compatibility-list"
+        },
+        {
+            "question": "GRUB parameter is required for lbpcu running on Debian system (kernel 4.9 or above)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360051754831-GRUB-parameter-is-required-for-lbpcu-running-on-Debian-system-kernel-4-9-or-above"
+        },
+        {
+            "question": "Update NMC4007_V7.20.01_LR",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360051557211-Update-NMC4007-V7-20-01-LR"
+        },
+        {
+            "question": "SKY-8100 PCIE riser card installation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360050438352-SKY-8100-PCIE-riser-card-installation"
+        },
+        {
+            "question": "FWA-5070/6070 JP10 setting key-point",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360050596071-FWA-5070-6070-JP10-setting-key-point"
+        },
+        {
+            "question": "Given that channel equals 36 in conf. , how to establish WiFi 5G connection before start of AP mode on FWA-1112VC/1012VC",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360049657712-Given-that-channel-equals-36-in-conf-how-to-establish-WiFi-5G-connection-before-start-of-AP-mode-on-FWA-1112VC-1012VC"
+        },
+        {
+            "question": "Why FWA-3260 10Gb port(X552) doesn't support 1G base-T SFP module",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360049724191-Why-FWA-3260-10Gb-port-X552-doesn-t-support-1G-base-T-SFP-module"
+        },
+        {
+            "question": "How to update FWA-T011 BIOS in EFI-Shell with AMI utility",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360049281791-How-to-update-FWA-T011-BIOS-in-EFI-Shell-with-AMI-utility"
+        },
+        {
+            "question": "How to create a bootable USB flash drive?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360048776992-How-to-create-a-bootable-USB-flash-drive"
+        },
+        {
+            "question": "FWA-6170 connector, jumper & switch address",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360049060711-FWA-6170-connector-jumper-switch-address"
+        },
+        {
+            "question": "FWA-6070/5070 connector, jumper & switch address",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360048571572-FWA-6070-5070-connector-jumper-switch-address"
+        },
+        {
+            "question": "When did FWA-6170 start to support virtual network access (in-band) in between BMC and Host?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360048887291-When-did-FWA-6170-start-to-support-virtual-network-access-in-band-in-between-BMC-and-Host"
+        },
+        {
+            "question": "Meaning of the status progress output from Linux dd command",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360047694292-Meaning-of-the-status-progress-output-from-Linux-dd-command"
+        },
+        {
+            "question": "How to install operating system remotely through BMC Web UI? (Remote Storage)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360047012912-How-to-install-operating-system-remotely-through-BMC-Web-UI-Remote-Storage"
+        },
+        {
+            "question": "FWA-3260A (with BMC) PSU sensor status is different between BMC version 1.08 and BMC version 1.10",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360047009232-FWA-3260A-with-BMC-PSU-sensor-status-is-different-between-BMC-version-1-08-and-BMC-version-1-10"
+        },
+        {
+            "question": "FWA-6170/5070/6070 BMC sensor's PSU status ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360047008732-FWA-6170-5070-6070-BMC-sensor-s-PSU-status"
+        },
+        {
+            "question": "How to reflash BIOS expired evaluation via Node Explorer?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360047302991-How-to-reflash-BIOS-expired-evaluation-via-Node-Explorer"
+        },
+        {
+            "question": "FWA-6170 DIMM  Population Suggestion",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360046061732-FWA-6170-DIMM-Population-Suggestion"
+        },
+        {
+            "question": "Why LBPCU Version 1.30 (or latest version) need to define eth_name item",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360045216752-Why-LBPCU-Version-1-30-or-latest-version-need-to-define-eth-name-item"
+        },
+        {
+            "question": "NMC-4008 OBM MPO (Multi-fiber Push-OFF)  only support MPO/MPT12 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360044792632-NMC-4008-OBM-MPO-Multi-fiber-Push-OFF-only-support-MPO-MPT12"
+        },
+        {
+            "question": "IPMC IOL limitation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360044657871-IPMC-IOL-limitation"
+        },
+        {
+            "question": "How to update FWA-5070 firmware through MGMT ports (IOL)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360044392151-How-to-update-FWA-5070-firmware-through-MGMT-ports-IOL"
+        },
+        {
+            "question": "Why the LED keeps ON on Management Ports on FWA-6170",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360043617272-Why-the-LED-keeps-ON-on-Management-Ports-on-FWA-6170"
+        },
+        {
+            "question": "How's the sensor behaves on FWA-6520/5020 with different PSU conditions from BMC",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360044064451-How-s-the-sensor-behaves-on-FWA-6520-5020-with-different-PSU-conditions-from-BMC"
+        },
+        {
+            "question": "How to stop buzz sound on FWA-5020 when PSU got issues",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360043615972-How-to-stop-buzz-sound-on-FWA-5020-when-PSU-got-issues"
+        },
+        {
+            "question": "FWA-3270B DVI pin definition and it only support DVI-D function",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360043104511-FWA-3270B-DVI-pin-definition-and-it-only-support-DVI-D-function"
+        },
+        {
+            "question": "Get rid of yellow mark on USB-EEM on Windows Server 2019",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360042133152-Get-rid-of-yellow-mark-on-USB-EEM-on-Windows-Server-2019"
+        },
+        {
+            "question": "How to Upgrade SKY-7221 BMC & BIOS through AMI BMC Web ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041998991-How-to-Upgrade-SKY-7221-BMC-BIOS-through-AMI-BMC-Web"
+        },
+        {
+            "question": "PCIE-2420NP SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041698971-PCIE-2420NP-SFP-module-compatibility-list"
+        },
+        {
+            "question": "PCIE-2410NP QSFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041698891-PCIE-2410NP-QSFP-module-compatibility-list"
+        },
+        {
+            "question": "PCIE-1220PS SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041698111-PCIE-1220PS-SFP-module-compatibility-list"
+        },
+        {
+            "question": "PCIE-2320NP QSFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041697431-PCIE-2320NP-QSFP-module-compatibility-list"
+        },
+        {
+            "question": " PCIE-2230NP SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041697171--PCIE-2230NP-SFP-module-compatibility-list"
+        },
+        {
+            "question": "PCIE-2220NP SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041696891-PCIE-2220NP-SFP-module-compatibility-list"
+        },
+        {
+            "question": "PCIE-2130NP SFP module compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360041259272-PCIE-2130NP-SFP-module-compatibility-list"
+        },
+        {
+            "question": "\"Activate\" command returns failure when upgrading BL and BMC via KCS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360040628832--Activate-command-returns-failure-when-upgrading-BL-and-BMC-via-KCS"
+        },
+        {
+            "question": "Install P2000 on SKY-8201L",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360040882831-Install-P2000-on-SKY-8201L"
+        },
+        {
+            "question": "Install FreeBSD on SKY-8101",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360040880771-Install-FreeBSD-on-SKY-8101"
+        },
+        {
+            "question": "How to use Linux flashrom to upgrade BIOS on FWA-1320",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360040381511-How-to-use-Linux-flashrom-to-upgrade-BIOS-on-FWA-1320"
+        },
+        {
+            "question": "How to use Linux flashrom to upgrade BIOS on FWA-2320",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360039969092-How-to-use-Linux-flashrom-to-upgrade-BIOS-on-FWA-2320"
+        },
+        {
+            "question": "PCIE-1220PS NVM upgrade from V4.53 to V7.1",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360039886491-PCIE-1220PS-NVM-upgrade-from-V4-53-to-V7-1"
+        },
+        {
+            "question": "How to change FAN Speed on FWA-6510",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360039868971-How-to-change-FAN-Speed-on-FWA-6510"
+        },
+        {
+            "question": "How to use USB-to-Ethernet virtual interface upgrading firmware?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360039148572-How-to-use-USB-to-Ethernet-virtual-interface-upgrading-firmware"
+        },
+        {
+            "question": "How to change LED behaviors on BYPASS ports when system in DC off state?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360039147652-How-to-change-LED-behaviors-on-BYPASS-ports-when-system-in-DC-off-state"
+        },
+        {
+            "question": "How to install/check IPMITOOL command in Versa OS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038540992-How-to-install-check-IPMITOOL-command-in-Versa-OS"
+        },
+        {
+            "question": "Windows Installation Guide on platforms which have patched vulnerability \"CVE-2019-6260\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038925071-Windows-Installation-Guide-on-platforms-which-have-patched-vulnerability-CVE-2019-6260"
+        },
+        {
+            "question": "Linux Installation Guide on platforms which have patched vulnerability \"CVE-2019-6260\"",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038882231-Linux-Installation-Guide-on-platforms-which-have-patched-vulnerability-CVE-2019-6260"
+        },
+        {
+            "question": "RTC deviation definition for C-IoT Intel products",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038637691-RTC-deviation-definition-for-C-IoT-Intel-products"
+        },
+        {
+            "question": "How to redirect OS to console ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038468511-How-to-redirect-OS-to-console"
+        },
+        {
+            "question": "How to enable alert LED & Audible Alarm ( beep sound) if BMC \"Event Filter\"  event is  triggered ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360038022692-How-to-enable-alert-LED-Audible-Alarm-beep-sound-if-BMC-Event-Filter-event-is-triggered"
+        },
+        {
+            "question": "How to copy a file from local system to remote system in Linux?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360037560572-How-to-copy-a-file-from-local-system-to-remote-system-in-Linux"
+        },
+        {
+            "question": "How to clear SEL with IPMItool",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360035738992-How-to-clear-SEL-with-IPMItool"
+        },
+        {
+            "question": "How to get sensor threshold on BMC-based system with a specific sensor number ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360035738372-How-to-get-sensor-threshold-on-BMC-based-system-with-a-specific-sensor-number"
+        },
+        {
+            "question": "How to get more information about PCH?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360036085631-How-to-get-more-information-about-PCH"
+        },
+        {
+            "question": "How to Manage Power Settings for 3.5\" HDDs on the SKY-9240",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360036084571-How-to-Manage-Power-Settings-for-3-5-HDDs-on-the-SKY-9240"
+        },
+        {
+            "question": "FWA-1330, FWA-2330 and PFSense compatibility list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360035681892-FWA-1330-FWA-2330-and-PFSense-compatibility-list"
+        },
+        {
+            "question": "How to setup BMC IP address?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360035622332-How-to-setup-BMC-IP-address"
+        },
+        {
+            "question": "Cannot load ipmi_si properly with Kernel 3.10.x on MIC-5322",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360035180012-Cannot-load-ipmi-si-properly-with-Kernel-3-10-x-on-MIC-5322"
+        },
+        {
+            "question": "How to read or swap BIOS bank?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360034373492-How-to-read-or-swap-BIOS-bank"
+        },
+        {
+            "question": "How to Change the UUID of a Partition Based on Linux",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360034745191-How-to-Change-the-UUID-of-a-Partition-Based-on-Linux"
+        },
+        {
+            "question": "FWA-6170 PCIe Riser card installation Notes  ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360034373112-FWA-6170-PCIe-Riser-card-installation-Notes"
+        },
+        {
+            "question": "FWA-1012VC-RMK installation guide",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033482032-FWA-1012VC-RMK-installation-guide"
+        },
+        {
+            "question": "How to Check the Temperature of Teleconnect DSL module ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033313352-How-to-Check-the-Temperature-of-Teleconnect-DSL-module"
+        },
+        {
+            "question": "How to test NIC performance using Iperf?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033313212-How-to-test-NIC-performance-using-Iperf"
+        },
+        {
+            "question": "How to Install IPMItool?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033313052-How-to-Install-IPMItool"
+        },
+        {
+            "question": "FWA-1010 Disable the USB port",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033312792-FWA-1010-Disable-the-USB-port"
+        },
+        {
+            "question": "Connecting to Teleconnect vDSL Module using LINUX OS  ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033312452-Connecting-to-Teleconnect-vDSL-Module-using-LINUX-OS"
+        },
+        {
+            "question": "Atom C2000/C3000 CPU Hyper-threading ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033676071-Atom-C2000-C3000-CPU-Hyper-threading"
+        },
+        {
+            "question": "One more step after adding LOM on FWA-3270 for PSU detection",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033528671-One-more-step-after-adding-LOM-on-FWA-3270-for-PSU-detection"
+        },
+        {
+            "question": "FWA-1010VC-WMT installation guide",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033020392-FWA-1010VC-WMT-installation-guide"
+        },
+        {
+            "question": "HDD LEDs blink abnormally",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033010272-HDD-LEDs-blink-abnormally"
+        },
+        {
+            "question": "Installation Guide for SKY-8201 with x16+x16 Riser card",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360033276911-Installation-Guide-for-SKY-8201-with-x16-x16-Riser-card"
+        },
+        {
+            "question": "FWA-3270 LAN bypass Jumper setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360032715052-FWA-3270-LAN-bypass-Jumper-setting"
+        },
+        {
+            "question": "FWA-3232 Power, System reset , HDD LED connector PIN definition ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360032819151-FWA-3232-Power-System-reset-HDD-LED-connector-PIN-definition"
+        },
+        {
+            "question": "SKY-7210 BMC firmware upgraded limitation from V2.04.18xxxx (2018 version) to V2.04.19xxxx(2019 version) under the AMI/Yafuflash",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360032411932-SKY-7210-BMC-firmware-upgraded-limitation-from-V2-04-18xxxx-2018-version-to-V2-04-19xxxx-2019-version-under-the-AMI-Yafuflash"
+        },
+        {
+            "question": "M.2 SSDs keys ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360032052091-M-2-SSDs-keys"
+        },
+        {
+            "question": "FAQ MIC5332 RTC Sync Limitations",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360031220432-FAQ-MIC5332-RTC-Sync-Limitations"
+        },
+        {
+            "question": "Debian 10 Installation on FWA-1012 - console text mode",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360031003392-Debian-10-Installation-on-FWA-1012-console-text-mode"
+        },
+        {
+            "question": "FWA-1010VC Bios password Max Length and Character Limitations ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360030811032-FWA-1010VC-Bios-password-Max-Length-and-Character-Limitations"
+        },
+        {
+            "question": "FWA-xxxx Serial Console Cable PIN Configuration",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360030567592-FWA-xxxx-Serial-Console-Cable-PIN-Configuration"
+        },
+        {
+            "question": "NMC-4006 NVM upgrade from V5.05 /V6.01 to V6.80",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360030567112-NMC-4006-NVM-upgrade-from-V5-05-V6-01-to-V6-80"
+        },
+        {
+            "question": "FWA-6170 NMC PCIe / I2C bus assignment",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360030475452-FWA-6170-NMC-PCIe-I2C-bus-assignment"
+        },
+        {
+            "question": "\"Failed to update Firmware\" message pops up when driver installation",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360030646591--Failed-to-update-Firmware-message-pops-up-when-driver-installation"
+        },
+        {
+            "question": "NMC-4005 NVM upgrade from V5.05/6.01 to V6.80",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360029984031-NMC-4005-NVM-upgrade-from-V5-05-6-01-to-V6-80"
+        },
+        {
+            "question": "How to check PCIe devices under UEFI shell",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360029518372-How-to-check-PCIe-devices-under-UEFI-shell"
+        },
+        {
+            "question": "How to access node explorer?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360029504411-How-to-access-node-explorer"
+        },
+        {
+            "question": "DIMM Population Order",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360028528632-DIMM-Population-Order"
+        },
+        {
+            "question": "How to use ipmitool command to set BMC watchdog timer ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360028285872-How-to-use-ipmitool-command-to-set-BMC-watchdog-timer"
+        },
+        {
+            "question": "Error message pops up while check eMMC through command partprobe -  depends on supports from Kernel Driver",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027965031-Error-message-pops-up-while-check-eMMC-through-command-partprobe-depends-on-supports-from-Kernel-Driver"
+        },
+        {
+            "question": "How to check FWA-1012VC on-board FRU content ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027851591-How-to-check-FWA-1012VC-on-board-FRU-content"
+        },
+        {
+            "question": "How to connect the Mini UTM in the first time?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027480672-How-to-connect-the-Mini-UTM-in-the-first-time"
+        },
+        {
+            "question": "Fail to detect correct drives after Hot Swap",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027723991-Fail-to-detect-correct-drives-after-Hot-Swap"
+        },
+        {
+            "question": "FWA-2012 MGMT (NIC:I210) PXE function setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027304712-FWA-2012-MGMT-NIC-I210-PXE-function-setting"
+        },
+        {
+            "question": "How to bridge Node boards",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027000852-How-to-bridge-Node-boards"
+        },
+        {
+            "question": "How to dump the SAS controller log",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360027283471-How-to-dump-the-SAS-controller-log"
+        },
+        {
+            "question": "FWA-1010VC-RMT installation guide",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026712752-FWA-1010VC-RMT-installation-guide"
+        },
+        {
+            "question": "CPCI / VPX VxWorks Support List",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026740671-CPCI-VPX-VxWorks-Support-List"
+        },
+        {
+            "question": "Versa OS 16.1R2S8 installation note. (it will show error in \"[!] configure the network\" step\")",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026641791-Versa-OS-16-1R2S8-installation-note-it-will-show-error-in-configure-the-network-step"
+        },
+        {
+            "question": "IPMITool Quick Start Guide - 2. Remotely Monitor and Manage",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026223191-IPMITool-Quick-Start-Guide-2-Remotely-Monitor-and-Manage"
+        },
+        {
+            "question": "IPMITool Quick Start Guide - 1. Read System Information",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026220311-IPMITool-Quick-Start-Guide-1-Read-System-Information"
+        },
+        {
+            "question": "Build PCH Firmware (RSTe) RAID using UEFI mode on SKY-8101 series",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360026038291-Build-PCH-Firmware-RSTe-RAID-using-UEFI-mode-on-SKY-8101-series"
+        },
+        {
+            "question": "Build Microsemi Adaptec Series 8 RAID using UEFI mode on SKY-8101",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025747412-Build-Microsemi-Adaptec-Series-8-RAID-using-UEFI-mode-on-SKY-8101"
+        },
+        {
+            "question": "How to identify the problematic DIMM through dmesg? (MCE error)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025645552-How-to-identify-the-problematic-DIMM-through-dmesg-MCE-error"
+        },
+        {
+            "question": "Enabling virtualization extensions in BIOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025929451-Enabling-virtualization-extensions-in-BIOS"
+        },
+        {
+            "question": "Build Microsemi Adaptec Series 8 RAID on SKY-8101 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025925431-Build-Microsemi-Adaptec-Series-8-RAID-on-SKY-8101"
+        },
+        {
+            "question": "BMC Dual NIC Support on SKY-8101 - limitation on Network domain",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025342092-BMC-Dual-NIC-Support-on-SKY-8101-limitation-on-Network-domain"
+        },
+        {
+            "question": "FWA-1012VC LED Identification of LAN Ports",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025341012-FWA-1012VC-LED-Identification-of-LAN-Ports"
+        },
+        {
+            "question": "BMC Dedicate NIC control on SKY-8101 ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025297692-BMC-Dedicate-NIC-control-on-SKY-8101"
+        },
+        {
+            "question": "How to trouble-shooting \"Can't get terminal parameters: Inappropriate ioctl for device\"  for LTE status setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025531711-How-to-trouble-shooting-Can-t-get-terminal-parameters-Inappropriate-ioctl-for-device-for-LTE-status-setting"
+        },
+        {
+            "question": "How to set NIC bonding in Linux through nmcli command",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360025316411-How-to-set-NIC-bonding-in-Linux-through-nmcli-command"
+        },
+        {
+            "question": "Is NMC-6002/6003 compatible with FWA-6170?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360024886791-Is-NMC-6002-6003-compatible-with-FWA-6170"
+        },
+        {
+            "question": "How to use BMC KCS/IOL/SOL?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360024530612-How-to-use-BMC-KCS-IOL-SOL"
+        },
+        {
+            "question": "How to update SKY-8101 firmware via IPMI HPM",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360024495992-How-to-update-SKY-8101-firmware-via-IPMI-HPM"
+        },
+        {
+            "question": "Which Denverton CPU SKU Supports Turbo Mode?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360024113972-Which-Denverton-CPU-SKU-Supports-Turbo-Mode"
+        },
+        {
+            "question": "FWA-2012 M.2 module support type.",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360023916892-FWA-2012-M-2-module-support-type"
+        },
+        {
+            "question": "FWA-1012VC network port naming issue in Ubuntu",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360024026611-FWA-1012VC-network-port-naming-issue-in-Ubuntu"
+        },
+        {
+            "question": "How to Check eMMC info from linux -  depends on supports from Kernel Driver",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360023183931-How-to-Check-eMMC-info-from-linux-depends-on-supports-from-Kernel-Driver"
+        },
+        {
+            "question": "How to Clear CMOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022608592-How-to-Clear-CMOS"
+        },
+        {
+            "question": "How to upgrade ShMC F/W on PAC-6009 ? ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022678931-How-to-upgrade-ShMC-F-W-on-PAC-6009"
+        },
+        {
+            "question": "How to update SKY-8211 firmware through IPMI HPM",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022514131-How-to-update-SKY-8211-firmware-through-IPMI-HPM"
+        },
+        {
+            "question": "How to identify Advantech PCE-3031 & PCIE-3030 by Linux lspci command",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022456251-How-to-identify-Advantech-PCE-3031-PCIE-3030-by-Linux-lspci-command"
+        },
+        {
+            "question": "How to check system power status  and get power cycle the system via IPMITOOL over LAN?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022452951-How-to-check-system-power-status-and-get-power-cycle-the-system-via-IPMITOOL-over-LAN"
+        },
+        {
+            "question": "How to power on/off system via IPMITOOL over LAN?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022452791-How-to-power-on-off-system-via-IPMITOOL-over-LAN"
+        },
+        {
+            "question": "How to check SOL information and change SOL baud rate?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022270172-How-to-check-SOL-information-and-change-SOL-baud-rate"
+        },
+        {
+            "question": "MIC-3328 PCIe configuration",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022058832-MIC-3328-PCIe-configuration"
+        },
+        {
+            "question": "How to build PCH Firmware (RSTe) RAID on SKY-8101 or SKY-8201 series",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022001952-How-to-build-PCH-Firmware-RSTe-RAID-on-SKY-8101-or-SKY-8201-series"
+        },
+        {
+            "question": "Compatible 1000Base-T 1G transceivers for FMM-5001F",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021978012-Compatible-1000Base-T-1G-transceivers-for-FMM-5001F"
+        },
+        {
+            "question": "How many Ethernet Interfaces on FWA-1010VC will be detected in OS?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022171651-How-many-Ethernet-Interfaces-on-FWA-1010VC-will-be-detected-in-OS"
+        },
+        {
+            "question": "Compatible 100G transceivers for NMC-6002FD",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360022170911-Compatible-100G-transceivers-for-NMC-6002FD"
+        },
+        {
+            "question": "FWA-3260  compatible 1G/10G SFP module",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021924232-FWA-3260-compatible-1G-10G-SFP-module"
+        },
+        {
+            "question": " Troubleshooting guide for BMC platforms via IOL - collection log",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021978831--Troubleshooting-guide-for-BMC-platforms-via-IOL-collection-log"
+        },
+        {
+            "question": "Troubleshooting guide for BMC and non-BMC platforms - collection log",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021632452-Troubleshooting-guide-for-BMC-and-non-BMC-platforms-collection-log"
+        },
+        {
+            "question": "Upgrading Advanced LAN Bypass Firmware  method-- Strongly recommended",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021668151-Upgrading-Advanced-LAN-Bypass-Firmware-method-Strongly-recommended"
+        },
+        {
+            "question": "How to perform  NVM Update Utility for Intel® Ethernet Network Adapter 710 Series ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021589651-How-to-perform-NVM-Update-Utility-for-Intel-Ethernet-Network-Adapter-710-Series"
+        },
+        {
+            "question": "NMC-4006 NVM upgrade from V5.05 to V6.01",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021307072-NMC-4006-NVM-upgrade-from-V5-05-to-V6-01"
+        },
+        {
+            "question": "Ubuntu cannot support MinimalCD installation by UEFI mode",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021494711-Ubuntu-cannot-support-MinimalCD-installation-by-UEFI-mode"
+        },
+        {
+            "question": "How to use SOL (serial over lan)?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021053132-How-to-use-SOL-serial-over-lan"
+        },
+        {
+            "question": "How to set up Ethernet by ip command under Centos 7",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021280311-How-to-set-up-Ethernet-by-ip-command-under-Centos-7"
+        },
+        {
+            "question": "How to install NMC module in ENPD system",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360021137031-How-to-install-NMC-module-in-ENPD-system"
+        },
+        {
+            "question": "How to mount LVM partition on Linux",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020767352-How-to-mount-LVM-partition-on-Linux"
+        },
+        {
+            "question": "How to update Intel SSD firmware - CentOS",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020806651-How-to-update-Intel-SSD-firmware-CentOS"
+        },
+        {
+            "question": "FWA-3220 Series U31 EEPROM Read / Write check",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020534932-FWA-3220-Series-U31-EEPROM-Read-Write-check"
+        },
+        {
+            "question": "FWA-5020 compatible transceiver list",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020533032-FWA-5020-compatible-transceiver-list"
+        },
+        {
+            "question": "How to collect Sierra LTE module status for trouble-shooting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020760991-How-to-collect-Sierra-LTE-module-status-for-trouble-shooting"
+        },
+        {
+            "question": "How to set & read FWA-1012VC SIM slot setting",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020735291-How-to-set-read-FWA-1012VC-SIM-slot-setting"
+        },
+        {
+            "question": "How to create new BMC user on Advantech Server Products ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020650031-How-to-create-new-BMC-user-on-Advantech-Server-Products"
+        },
+        {
+            "question": "How to Disable LLDP agent on XL710 in Linux",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020364512-How-to-Disable-LLDP-agent-on-XL710-in-Linux"
+        },
+        {
+            "question": "How to change FWA-6520/FWA-5020/SKY-8200 FAN Speed",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020255532-How-to-change-FWA-6520-FWA-5020-SKY-8200-FAN-Speed"
+        },
+        {
+            "question": "How to set X710/XL710/X722 SFP Port Tx disable function",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020060592-How-to-set-X710-XL710-X722-SFP-Port-Tx-disable-function"
+        },
+        {
+            "question": "How to configure a PXE server on CentOS 7 (Legacy Boot)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020311031-How-to-configure-a-PXE-server-on-CentOS-7-Legacy-Boot"
+        },
+        {
+            "question": "How to install OS by SKY-7210 WebUI iKVM",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360019909692-How-to-install-OS-by-SKY-7210-WebUI-iKVM"
+        },
+        {
+            "question": "How to install memory module on MIC-5345 DIMM slots",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360019849132-How-to-install-memory-module-on-MIC-5345-DIMM-slots"
+        },
+        {
+            "question": "How to upgrade SKY-9240 FW through IOL?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360019835631-How-to-upgrade-SKY-9240-FW-through-IOL"
+        },
+        {
+            "question": "How to create a Dynamic Credentials?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360019069391-How-to-create-a-Dynamic-Credentials"
+        },
+        {
+            "question": "How to set OS2BMC IP as static? ",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018703452-How-to-set-OS2BMC-IP-as-static"
+        },
+        {
+            "question": "FWA-1012VC/FWA-1112VC/FWA-1212VC BIOS UEFI flash method under the AMI flashing utility (AfuEfix64.efi)",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018702312-FWA-1012VC-FWA-1112VC-FWA-1212VC-BIOS-UEFI-flash-method-under-the-AMI-flashing-utility-AfuEfix64-efi"
+        },
+        {
+            "question": "FAQ How to install GUI on CentOS 7 Server",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018662832-FAQ-How-to-install-GUI-on-CentOS-7-Server"
+        },
+        {
+            "question": "How to set & clear APN in Linux system for ENPD LTE model",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018899611-How-to-set-clear-APN-in-Linux-system-for-ENPD-LTE-model"
+        },
+        {
+            "question": "NMC-4005 NVM upgrade from V5.05 to V6.01",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018404652-NMC-4005-NVM-upgrade-from-V5-05-to-V6-01"
+        },
+        {
+            "question": "How to upgrade firmware via NodeExplorer & IPMITOOL ?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018394552-How-to-upgrade-firmware-via-NodeExplorer-IPMITOOL"
+        },
+        {
+            "question": "FWA-1010VC - Port0/1 dual media port behaviors",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018677191-FWA-1010VC-Port0-1-dual-media-port-behaviors"
+        },
+        {
+            "question": "FAQ  RTC Sync Feature on Advantech ATCA Blades",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018388712-FAQ-RTC-Sync-Feature-on-Advantech-ATCA-Blades"
+        },
+        {
+            "question": "How to change ubuntu specific kernel for quick cross test",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018642071-How-to-change-ubuntu-specific-kernel-for-quick-cross-test"
+        },
+        {
+            "question": "Does MIC-3396MIL support Windows XP?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018257972-Does-MIC-3396MIL-support-Windows-XP"
+        },
+        {
+            "question": "Welcome to Help Center!",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018320831-Welcome-to-Help-Center"
+        },
+        {
+            "question": "Can MIC-6314 support 12V  input only?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018319331-Can-MIC-6314-support-12V-input-only"
+        },
+        {
+            "question": "How to set fan speed on PAC-6009",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360017949072-How-to-set-fan-speed-on-PAC-6009"
+        },
+        {
+            "question": "How to get switch and blade sensor value on PAC-6009",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360017946672-How-to-get-switch-and-blade-sensor-value-on-PAC-6009"
+        },
+        {
+            "question": "How to change sensor threshold on server with BMC",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018220231-How-to-change-sensor-threshold-on-server-with-BMC"
+        },
+        {
+            "question": "How to install Linux in non-VGA system with console-redirection?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360017541092-How-to-install-Linux-in-non-VGA-system-with-console-redirection"
+        },
+        {
+            "question": "\"ethtool -p\" identify command is Not Supported on NMC-4001/4005/4006/4007/1008",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360017825311--ethtool-p-identify-command-is-Not-Supported-on-NMC-4001-4005-4006-4007-1008"
+        },
+        {
+            "question": "PCIE-2230(former name PCIE-2202E) NVM upgrade from V4.42 to V6.01",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360016613591-PCIE-2230-former-name-PCIE-2202E-NVM-upgrade-from-V4-42-to-V6-01"
+        },
+        {
+            "question": "Ubuntu 16.04 Graphical Installation Guide",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360015854492-Ubuntu-16-04-Graphical-Installation-Guide"
+        },
+        {
+            "question": "FWA-1010VC SW Define LED & Button",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360015812812-FWA-1010VC-SW-Define-LED-Button"
+        },
+        {
+            "question": "Red Hat 7.5 Enterprise Linux Graphical Installation Guide",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360016026911-Red-Hat-7-5-Enterprise-Linux-Graphical-Installation-Guide"
+        },
+        {
+            "question": "How to swap activated/deactivated BIOS?",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360015808332-How-to-swap-activated-deactivated-BIOS"
+        },
+        {
+            "question": "How to install FMM on MIC-5345CD2-P0E",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360020055571-How-to-install-FMM-on-MIC-5345CD2-P0E"
+        },
+        {
+            "question": "ATCA MIC5345D RTC Sync Limitations",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018388652-ATCA-MIC5345D-RTC-Sync-Limitations"
+        },
+        {
+            "question": "How to Check RTM-5108 Storage with MIC-5345",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360018354692-How-to-Check-RTM-5108-Storage-with-MIC-5345"
+        },
+        {
+            "question": "How to Disable MIC-5345 on board 8G Flash",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360016031271-How-to-Disable-MIC-5345-on-board-8G-Flash"
+        },
+        {
+            "question": "How to Build PCH Firmware RAID on MIC-5345S",
+            "answer": "https://advantech-ncg.zendesk.com/hc/en-us/articles/360019986312-How-to-Build-PCH-Firmware-RAID-on-MIC-5345S"
+        }
+    ]
+}
