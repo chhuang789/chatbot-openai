@@ -18,7 +18,7 @@ type FAQ = {
 // Reads the FAQs JSON file
 const filePath = path.resolve(process.cwd(), "data", "faqs.json");
 const faqs : FAQ[] = JSON.parse(fs.readFileSync(filePath, "utf-8")).faqs;
-console.log(faqs);
+// console.log(faqs);
 
 /**
  * Chat Completion
@@ -40,14 +40,14 @@ export async function chatCompletion(chatMessages: Message[]) {
         console.log("Reaching out to OPENAI API...");
 
         // Chat to be send to OPEN AI
-        const chat = [
+        const chat: Array<{ role: 'system' | 'user' | 'assistant'; content: string }> = [
             { role: "system", content: "You are a helpful assistant" },
             ...faqs.map(faq => ({
-                role: "system",
+                role: "system" as const,
                 content: `Q: ${faq.question}\nA: ${faq.answer}`
             })),
             ...chatMessages
-        ]
+        ];
         
         const completion = await openAI.chat.completions.create({
             messages: chat,

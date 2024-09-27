@@ -27,10 +27,10 @@ export default function Home() {
   // 總結來說，JSX 讓 React 的 UI 代碼更加簡潔且具表現力，使得前端開發更加直觀。
   return (
       <main className="flex min-h-screen flex-col items-center p-24">
-        {/* 圖片和標題分開不同的行 */}
-        <div className="flex flex-col items-center gap-6">
+        {/* 圖片和標題分開不同的行，並且靠左對齊 */}
+        <div className="absolute top-0 left-0 flex flex-col items-start gap-4 p-4">
           {/* 使用 next/image 優化圖片加載，圖片大小設置為 512px，並添加深灰色背景 */}
-          <div className="bg-gray-200 p-4">
+          <div className="bg-gray-200 p-2">
             <Image
               src="/advantech-logo.svg"
               alt="Advantech Logo"

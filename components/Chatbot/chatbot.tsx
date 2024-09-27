@@ -17,7 +17,7 @@ export type Message = {
 export default function Chatbot(){
     const [showChat, setShowChat] = useState(false);
     const [userMessage, setUserMessage] = useState("");
-    const [loading, setLoading] = useState(false);
+    const [, setLoading] = useState(false);
     const [messages, setMessages] = useState<Message[]>([
         { role: 'system', content: `若在 faqs.json 裡找到適合的 FAQ，請列出 "answer"對應的value，全部的value為html url，請加上hyper link，且跳到另一個新的頁面，連結只要放 URL，不要放任何文字在連結上。 \
             若 user 問 'quick start guide'，請以 title 中有 'quick start' 為主，且有機種名字為主。 \
@@ -49,7 +49,12 @@ export default function Chatbot(){
             console.log('RESPONSE', res);
             
             setUserMessage('');
-            setMessages(prevMessages => [...prevMessages, res]);        
+            setMessages(prevMessages => {
+                if (res !== undefined) {
+                    return [...prevMessages, res];
+                }
+                return prevMessages; // 如果 res 是 undefined，則返回原本的 prevMessages 陣列
+            });
         } catch (error) {
             console.error(error);
         } finally {
