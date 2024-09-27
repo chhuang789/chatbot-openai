@@ -25,43 +25,12 @@ console.log(faqs);
  * @param chatMessages 
  * @returns 
  */
-// export async function chatCompletion(chatMessages: Message[]) {
-//     console.log("FROM BACKEND", chatMessages);
-
-//     const chat = [
-//         { role: "system", content: "You are a helpful assistant" },
-//         ...chatMessages
-//     ]
-
-//     const completion = await openAI.chat.completions.create({
-//         messages: chat,
-//         model: "gpt-4o-mini"
-//     });
-    
-//     console.log("COMPLETION", completion.choices[0]);
-    
-//     return completion;
-// }
 export async function chatCompletion(chatMessages: Message[]) {
     try { 
         console.log("FROM BACKEND", chatMessages);
 
         // Check if the user question is in the FAQ array
         const faqsAnswer = faqs.find(faq => chatMessages.at(-1)?.content.toLowerCase().includes(faq.question.toLowerCase()));
-
-        // if (faqsAnswer) {
-        //     console.log("FAQS ANSWER", faqsAnswer);
-        //     return {
-        //         choices: [
-        //             {
-        //                 message: {
-        //                     role: "system",
-        //                     content: faqsAnswer.answer
-        //                 }
-        //             }
-        //         ]
-        //     };
-        // }
 
         if (faqsAnswer) {
             console.log("FAQS ANSWER", faqsAnswer);

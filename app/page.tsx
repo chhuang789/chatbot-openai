@@ -1,6 +1,7 @@
 // app/page.tsx 是你的應用程式的主要頁面。這是一個 React 元件，負責渲染你的應用程式的主要內容。
 // 這行將你自定義的 Chatbot 元件從 @/components/Chatbot/chatbot 位置引入。這應該是一個自定義的 React 元件，負責處理聊天機器人的功能。
 import Chatbot from "@/components/Chatbot/chatbot";
+import Image from 'next/image';
 
 // 這是你的應用程式的主要頁面元件。這個元件包含了一個標題和 Chatbot 元件。
 // export default function Home()：這是一個 React 函式元件，名為 Home，這個元件會被預設匯出作為主頁使用。
@@ -26,7 +27,21 @@ export default function Home() {
   // 總結來說，JSX 讓 React 的 UI 代碼更加簡潔且具表現力，使得前端開發更加直觀。
   return (
       <main className="flex min-h-screen flex-col items-center p-24">
-        <h1>Chatbot with OpenAI</h1>
+        {/* 圖片和標題分開不同的行 */}
+        <div className="flex flex-col items-center gap-6">
+          {/* 使用 next/image 優化圖片加載，圖片大小設置為 512px，並添加深灰色背景 */}
+          <div className="bg-gray-200 p-4">
+            <Image
+              src="/advantech-logo.svg"
+              alt="Advantech Logo"
+              width={512}  // 設置圖片寬度 512px
+              height={512} // 設置圖片高度 512px
+              style={{ width: 'auto', height: 'auto' }}  // 保持圖片寬高比例
+              priority // 優先加載
+            />
+          </div>
+          <h1 className="text-2xl">研華 ESG x86 AE AI Chatbot with OpenAI</h1>
+        </div>
         <Chatbot />
       </main>
   );

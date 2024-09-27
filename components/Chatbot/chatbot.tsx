@@ -5,6 +5,7 @@ import BotMessage from "./ui/bot-message";
 import UserMessage from "./ui/user-message";
 import ChatInput from "./ui/chat-input";
 import { chatCompletion } from "@/actions";
+import Image from 'next/image';
 
 type Role = 'user' | 'assistant' | 'system';
 
@@ -64,21 +65,31 @@ export default function Chatbot(){
             />
             { showChat && (
                 <div className="fixed right-12 bottom-[calc(4rem+1.5rem)] border
-                    hover:cursor-pointer p-5 shadow-md shadow-white w-[500px] h-[474px]">
+                    hover:cursor-pointer p-5 shadow-md shadow-white w-[800px] h-[600px]">
                     <div className="flex flex-col h-full">
                         {/* CHAT HEADER */}
-                        <div>
+                        {/* Chatbot 區域，圖片和文字水平排列，中間有 gap */}
+                        <div className="flex items-center gap-2 mt-2">
+                            {/* 加入 AE-Logo.png 圖片 */}
+                            <Image
+                            src="/AE-Logo.png"
+                            alt="AE Logo"
+                            width={50}  // 設置圖片的寬度
+                            height={50} // 設置圖片的高度
+                            style={{ width: 'auto', height: 'auto' }}  // 保持圖片寬高比例
+                            priority
+                            />
                             <h2 className="font-semibold text-lg tracking-tight">Chatbot</h2>
-                            <p>Powered by OpenAI</p>
-                            {/* <button onClick={() => setShowChat(false)}>Close</button> */}
                         </div>
+                        <p className="mt-2">Powered by Advantech & OpenAI</p>
+                        {/* <button onClick={() => setShowChat(false)}>Close</button> */}
                         {/* CHAT CONTAINER */}
                         <div className="flex flex-col flex-1 items-center p-2 mt-5 overflow-y-auto">
                             {messages && messages.map((m, i) => {
-                                return (m.role === 'assistant') ? (
-                                    <BotMessage {...m} key={i} />
-                                ) : (
+                                return (m.role === 'user') ? (
                                     <UserMessage {...m} key={i}/>
+                                ) : (
+                                    <BotMessage {...m} key={i} />
                                 )
                             })}
                         </div>
